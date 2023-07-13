@@ -1,4 +1,4 @@
-### 안녕하세요 반갑습니다.👋
+### 안녕하세요 강성권입니다👋
 
 <!--
 **seonggwon98/seonggwon98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SSAFY10기&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=random&height=150&section=header&text=SSAFY10기&fontSize=80)
